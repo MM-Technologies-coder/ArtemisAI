@@ -51,6 +51,7 @@ artemis-ai/
 │
 └── assets/
     └── logo.png               # Identità visiva e logo ufficiale dell'assistente Artemis-AI
+```
 
 ---
 
