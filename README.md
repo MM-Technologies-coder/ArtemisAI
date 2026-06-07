@@ -52,14 +52,18 @@ artemis-ai/
 └── assets/
     └── logo.png               # Identità visiva e logo ufficiale dell'assistente Artemis-AI
 
-📈 Competenze Dimostrate in questo Progetto
+---
+
+## 📈 Competenze Dimostrate in questo Progetto
 
 * **Prompt Engineering:** Configurazione di un system prompt robusto per vincolare il comportamento dell'assistente (stile, tono, mitigazione delle allucinazioni, formattazione).
 * **Cloud & Serverless Deployment:** Configurazione, routing e gestione delle variabili d'ambiente su piattaforma Vercel.
 * **Web Security:** Comprensione e risoluzione di vulnerabilità legate alle API Key esposte sul client attraverso pattern proxy backend.
 * **Technical Writing:** Redazione di documentazione tecnica completa e manuali utente (disponibili all'interno della repository).
 
-✉️ Contatti & Link
+---
+
+## ✉️ Contatti & Link
 
 * **Live Link:** [Visualizza l'applicazione su Vercel](https://artemis-ai-ten.vercel.app/)
 * **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/mattiamungari)
